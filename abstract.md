@@ -7,4 +7,6 @@ projective triangle.
 We conclude that anti-reversible, elliptic,
 hyper-nonnegative homeomorphisms exist.
 
-And here are some changes to see how it works: $\sqrt{x^2 + y^2}$.
+And here are some changes to see how it works: \(\sqrt{x^2 + y^2}\).
+
+Testing auto-pulling if it exists.
